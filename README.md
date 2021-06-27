@@ -1,1 +1,1 @@
-# algorithm-training
+# Algorithm and data structure
